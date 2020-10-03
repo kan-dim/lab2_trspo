@@ -2,6 +2,7 @@
 
 --------
 GuideService: 
+
 GET: /repairs?state=&name=
 
 POST: /repairs?knowEnglish=&name=
@@ -27,8 +28,8 @@ DELETE:
 
 --------
 GroupService 
-GET:
 
+GET:
 /order?day=&month=&state=
 
 POST:
