@@ -14,8 +14,8 @@ PUT: /repairs?name=
 
 --------
 ExcursionService 
-GET:
 
+GET:
 /order?state=&name=
 
 POST:
